@@ -1,0 +1,21 @@
+header {
+    background-image: linear-gradient(lightskyblue, purple);
+}
+html, body, .container-fluid, .content-row {
+    height: 100%;
+}
+
+.hide {
+    display: none;
+}
+
+.city-btn:hover {
+    background-color: #998bb8;
+    cursor: pointer;
+}
+
+.card {
+    background-color: lightskyblue;
+}
+
+
